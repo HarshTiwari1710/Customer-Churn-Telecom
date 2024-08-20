@@ -26,6 +26,8 @@ The dataset used in this project contains customer information, such as demograp
 - `PaymentMethod`: The method of payment used by the customer
 - `Churn`: Whether the customer has churned (Yes/No)
 
+
+
 ## Installation
 
 To run this project, you need to have the following software installed:
